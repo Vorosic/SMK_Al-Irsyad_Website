@@ -1,5 +1,5 @@
 # Vorosic.github.io
 
-# Website made for School project
+Website made for School project
 
-# By Zaky XII RPL 2024
+By Zaky XII RPL 2024
